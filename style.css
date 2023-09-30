@@ -1,0 +1,14 @@
+.one {
+    text-align: center;
+    margin: 25px auto;
+    margin-bottom: 100px;
+}
+
+ul {
+    text-align: center;
+}
+li {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    }
